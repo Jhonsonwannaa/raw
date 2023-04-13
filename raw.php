@@ -1,3 +1,3 @@
 <?php
-system('cat /tmp/jon.sh');
+echo 'jon';
 ?>
